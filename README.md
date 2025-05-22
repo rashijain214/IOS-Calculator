@@ -1,6 +1,6 @@
 # IOS-Calculator
 
-# iOS-Style Calculator (Responsive)
+# Responsive
 
 A sleek, fully responsive **iOS-style calculator** built using **HTML, CSS, and JavaScript**. Designed for both **desktop** and **mobile** views, this calculator mimics the iPhone experience while also adapting to larger screens with a landscape layout.
 
